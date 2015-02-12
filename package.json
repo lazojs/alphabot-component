@@ -1,7 +1,7 @@
 {
   "name": "alphabot-component",
   "description": "Lazo template for creating a component node module.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "keywords": [
     "lazojs",
