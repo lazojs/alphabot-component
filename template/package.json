@@ -1,0 +1,14 @@
+{
+  "name": "lazo-component",
+  "description": "lazo component",
+  "version": "0.0.0",
+  "scripts": {
+    "postinstall": "./build.js"
+  },
+  "lazo": {
+    "component": "dist"
+  },
+  "dependencies": {
+      "fs-extra": "0.16.3"
+  }
+}
